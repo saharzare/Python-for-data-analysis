@@ -23,12 +23,11 @@ This project uses the YouTube Data API to extract data on the top 200 trending v
 - Visualizes insights using histograms, bar plots, scatter plots, and boxplots
 
 # 📊 Understanding Price Elasticity Segments and Strategies
-In the analysis, products were categorized based on how their sales respond to price changes:
+we need a price data to anlyze the price of a product over time The dataset contains transactional data from a retail business, including information about the prices charged by the business (Price), the quantity of items sold (Item_Quantity), and the prices charged by competitors (Competition_Price). The dataset also includes other relevant fields such as Fiscal_Week_ID, Store_ID, and Item_ID, which allow for grouping and analyzing the data across different time periods, locations, and product categories.
 
-Negative Elasticity: Quantity sold decreases when price increases (typical demand behavior).
+## In the analysis, products were categorized based on how their sales respond to price changes:
 
-Unitary Elastic: Quantity changes proportionally with price changes.
-
-Highly Elastic: Small price changes cause large shifts in quantity sold.
-
-Zero Elasticity: Quantity sold remains constant regardless of price changes.
+- Negative Elasticity: Quantity sold decreases when price increases (typical demand behavior).
+- Unitary Elastic: Quantity changes proportionally with price changes.
+- Highly Elastic: Small price changes cause large shifts in quantity sold.
+- Zero Elasticity: Quantity sold remains constant regardless of price changes.
