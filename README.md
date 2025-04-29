@@ -21,3 +21,14 @@ This project uses the YouTube Data API to extract data on the top 200 trending v
 - Categorizes videos by duration range and category
 - Analyzes trends and viewer behavior
 - Visualizes insights using histograms, bar plots, scatter plots, and boxplots
+
+# 📊 Understanding Price Elasticity Segments and Strategies
+In the analysis, products were categorized based on how their sales respond to price changes:
+
+Negative Elasticity: Quantity sold decreases when price increases (typical demand behavior).
+
+Unitary Elastic: Quantity changes proportionally with price changes.
+
+Highly Elastic: Small price changes cause large shifts in quantity sold.
+
+Zero Elasticity: Quantity sold remains constant regardless of price changes.
